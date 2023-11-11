@@ -1,0 +1,7 @@
+{
+    "editor.minimap.enabled": false,
+    "workbench.editor.showTabs": "none",
+    "workbench.statusBar.visible": false,
+    "breadcrumbs.enabled": false,
+    "workbench.activityBar.location": "hidden",
+}
