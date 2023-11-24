@@ -1,4 +1,4 @@
-This dotfiles are based on [this](https://www.atlassian.com/git/tutorials/dotfiles) concept.
+These dotfiles are based on [this](https://www.atlassian.com/git/tutorials/dotfiles) concept.  
 Have you noticed everyone with a dotfiles repository tries to make it _NOT_ custom because they think other people will use it? It is because they feel smarter than other people. I do not. I am making this public because it makes stuff simpler. 🐻
 
 ```bash
