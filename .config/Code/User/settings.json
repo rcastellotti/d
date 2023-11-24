@@ -14,25 +14,10 @@
         }
     ],
     "editor.fontFamily": "JetBrains Mono",
-    "editor.fontSize": 14,
+    "editor.fontSize": 11,
     "files.autoSave": "afterDelay",
-    "explorer.confirmDelete": false,
-    "workbench.editorAssociations": [],
     "latex-workshop.view.pdf.viewer": "tab",
-    "workbench.iconTheme": "vs-seti",
-    "[markdown]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
     "[javascript]": {
         "editor.defaultFormatter": "vscode.typescript-language-features"
     },
-    // "window.menuBarVisibility": "toggle",
-    // "workbench.statusBar.visible": false,
-    // "workbench.activityBar.visible": false,
-    // "editor.hideCursorInOverviewRuler": true,
-    "editor.minimap.enabled": false,
-    // "breadcrumbs.enabled": false,
-    // "window.zoomLevel": 0,
-    
-
 }
