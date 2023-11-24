@@ -7,7 +7,7 @@ sudo apt install git neovim ranger bat grc
 
 ```bash
 alias config='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
-git clone --bare https://gitlab.com/rcastellotti/dotfiles .dotfiles
+git clone --bare https://github.com/rcastellotti/d .dotfiles
 ``` 
 
  ```bash
