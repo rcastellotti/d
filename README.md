@@ -17,7 +17,7 @@ config checkout
 ```
 
 ```bash
-chsh -s /usr/bin/fish
+sudo chsh -s /usr/bin/fish rc
 git config --global user.name "rcastellotti"
 git config --global user.email "me@rcastellotti.dev"
 ```
